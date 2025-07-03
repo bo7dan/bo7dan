@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bo7dan
+- 👋 Hi, I’m bo7dan
 - 👀 I’m interested in programming
 I like gnu/linux
-My favorite programming languages are - python , js 
+My favorite programming languages are - python , js, c++ 
